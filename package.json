@@ -2,7 +2,7 @@
   "name": "order-notifications",
   "version": "1.0.0",
   "description": "Send notifications to customer and employees on order status change",
-  "main": "index.js",
+  "main": "main.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
@@ -12,3 +12,4 @@
     "expo-server-sdk": "^3.7.0"
   }
 }
+
