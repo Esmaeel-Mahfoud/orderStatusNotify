@@ -1,0 +1,14 @@
+{
+  "name": "order-notifications",
+  "version": "1.0.0",
+  "description": "Send notifications to customer and employees on order status change",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-appwrite": "^13.0.0",
+    "expo-server-sdk": "^3.7.0"
+  }
+}
